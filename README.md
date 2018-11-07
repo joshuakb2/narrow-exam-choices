@@ -12,4 +12,3 @@ Bookmarklet to remove clutter from the UTD testing center exam registration form
 2. Next, you are prompted to choose from 50 bajillion available exams. Rather, click the bookmarklet you made in the previous section.
 3. In the prompt, type some text you know will appear in the exam option you're looking for (professor's name, course number, etc).
 4. Choose your test from the now significantly shorter list of available exams.
-5. $$$ profit $$$
