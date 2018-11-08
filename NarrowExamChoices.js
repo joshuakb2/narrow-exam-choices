@@ -9,7 +9,7 @@
     }
 
     //  Get array of all the exams in the list
-    var options = Array.filter.call(list.children, x => x.nodeName === 'OPTION');
+    var options = Array.prototype.filter.call(list.children, x => x.nodeName === 'OPTION');
 
     if (necessarySubstring) {
         options.forEach(function(opt) {
